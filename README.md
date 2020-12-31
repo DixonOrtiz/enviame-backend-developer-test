@@ -6,6 +6,11 @@ en el desafío.
 
 Cada uno de los repositorios cuenta con un README, el cual incluye las instrucciones de ejecución de todos los problemas.
 
+**Importante:** la mayoría de los códigos fueron desarrollados con NodeJS y npm, las versiones de éstos fueron exactamente:
+
+- NodeJS: v15.4.0
+- npm: 7.0.15
+
 # Preguntas
 
 ## Ejercicio 1: Docker

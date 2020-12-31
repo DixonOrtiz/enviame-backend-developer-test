@@ -1,6 +1,6 @@
 # Prueba de selección para Backend Developer en Envíame
 
-Estimados, primero que todo agradezco mucho la posibilidad haber podido rendir esta prueba técnica, ya que me sirvió para ponerme a
+Estimados, primero que todo agradezco mucho la posibilidad de haber podido rendir esta prueba técnica, ya que me sirvió para ponerme a
 prueba a mí mismo y me entretuve haciéndola. A continuación adjunto la lista de repositorios en función de las preguntas solicitadas
 en el desafío.
 
